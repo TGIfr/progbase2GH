@@ -6,7 +6,9 @@ compiler:
   - gcc
 
 script:
-  - cc main.c
+  - cc main.c -coverage
+  - ./a.out
+  - gcov main.c
   - echo program compiled successfully
 
 after_success:
