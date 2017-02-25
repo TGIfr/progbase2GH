@@ -1,0 +1,10 @@
+sudo: required
+language: c
+os:
+  - linux
+compiler:
+  - gcc
+
+script:
+  - cc main.c
+  - echo program compiled successfully
