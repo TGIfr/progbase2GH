@@ -57,7 +57,7 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="36">
-              <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+              <caret line="2" column="96" selection-start-line="2" selection-start-column="96" selection-end-line="2" selection-end-column="96" />
               <folding />
             </state>
           </provider>
@@ -469,7 +469,7 @@
       <workItem from="1488048778858" duration="7000" />
       <workItem from="1488048804746" duration="7000" />
       <workItem from="1488048820682" duration="5000" />
-      <workItem from="1488048982062" duration="4502000" />
+      <workItem from="1488048982062" duration="5116000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1488049234414</created>
@@ -541,11 +541,18 @@
       <option name="project" value="LOCAL" />
       <updated>1488054322656</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="test 11">
+      <created>1488054380672</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1488054380672</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4521000" />
+    <option name="totallyTimeSpent" value="5135000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="26" width="1366" height="742" extended-state="6" />
@@ -596,7 +603,8 @@
     <MESSAGE value="test 8" />
     <MESSAGE value="test 9" />
     <MESSAGE value="test 10" />
-    <option name="LAST_COMMIT_MESSAGE" value="test 10" />
+    <MESSAGE value="test 11" />
+    <option name="LAST_COMMIT_MESSAGE" value="test 11" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -646,7 +654,7 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="36">
-          <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+          <caret line="2" column="96" selection-start-line="2" selection-start-column="96" selection-end-line="2" selection-end-column="96" />
           <folding />
         </state>
       </provider>
