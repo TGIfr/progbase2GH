@@ -57,7 +57,7 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="36">
-              <caret line="2" column="135" selection-start-line="2" selection-start-column="135" selection-end-line="2" selection-end-column="135" />
+              <caret line="2" column="34" selection-start-line="2" selection-start-column="34" selection-end-line="2" selection-end-column="34" />
               <folding />
             </state>
           </provider>
@@ -469,7 +469,7 @@
       <workItem from="1488048778858" duration="7000" />
       <workItem from="1488048804746" duration="7000" />
       <workItem from="1488048820682" duration="5000" />
-      <workItem from="1488048982062" duration="3934000" />
+      <workItem from="1488048982062" duration="4444000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1488049234414</created>
@@ -527,11 +527,18 @@
       <option name="project" value="LOCAL" />
       <updated>1488052531146</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="test 9">
+      <created>1488053814320</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1488053814320</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3953000" />
+    <option name="totallyTimeSpent" value="4463000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="26" width="1366" height="742" extended-state="6" />
@@ -580,7 +587,8 @@
     <MESSAGE value="test 6" />
     <MESSAGE value="test 7" />
     <MESSAGE value="test 8" />
-    <option name="LAST_COMMIT_MESSAGE" value="test 8" />
+    <MESSAGE value="test 9" />
+    <option name="LAST_COMMIT_MESSAGE" value="test 9" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -603,14 +611,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/main.c">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="54">
@@ -627,10 +627,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="36">
-          <caret line="2" column="135" selection-start-line="2" selection-start-column="135" selection-end-line="2" selection-end-column="135" />
+          <caret line="2" column="34" selection-start-line="2" selection-start-column="34" selection-end-line="2" selection-end-column="34" />
           <folding />
         </state>
       </provider>
