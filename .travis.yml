@@ -8,3 +8,6 @@ compiler:
 script:
   - cc main.c
   - echo program compiled successfully
+
+after_success:
+  - bash <(curl -s https://codecov.io/bash)
