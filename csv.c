@@ -9,9 +9,7 @@
 
 
 #define MAX_TOKENS 100
-int main(){
-    return 0;
-}
+
 const char * const StandardDelimiter = ";";
 List * readCsv(char * readFile){
     List * result = List_new();
