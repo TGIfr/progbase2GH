@@ -8,7 +8,7 @@ compiler:
 script:
   - cc main.c -coverage
   - ./a.out
-  - gcov main.c
+  - gcov test.c csv.c list.c
   - echo program compiled successfully
 
 after_success:
