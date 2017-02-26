@@ -8,7 +8,7 @@ compiler:
 script:
   - gcc -std=c99  csv.c list.c list.h csv.h -coverage
   - ./a.out
-  - gcov -o tests.c csv.c list.c list.h csv.h
+  - gcov -o  csv.c list.c
   - echo program compiled successfully
 
 after_success:
