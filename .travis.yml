@@ -6,7 +6,7 @@ compiler:
   - gcc
 
 script:
-  - gcc main.c -coverage
+  - gcc test.c csv.c list.c list.h csv.h -coverage
   - ./a.out
   - gcov -o test.c csv.c list.c list.h csv.h
   - echo program compiled successfully
