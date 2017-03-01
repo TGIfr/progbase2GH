@@ -10,7 +10,8 @@
 
 #define MAX_TOKENS 100
 
-const char * const StandardDelimiter = ";";
+const char * const StandardDelimiter = ",";
+
 List * readCsv(char * readFile){
     List * result = List_new();
     FILE * read;
@@ -39,7 +40,8 @@ void saveCsv(List * list, char * saveFile){
     int length = List_count(list);
     for (int i = 0; i < length; ++i) {
         Student * temp = List_get(list, i);
-        fprintf(save, "%s;%i;%f\n", Student_getName(temp), Student_getCourse(temp), Student_getMark(temp));
+        fprintf(save, "%s%s%i%s%f\n", Student_getName(temp), StandardDelimiter,
+                Student_getCourse(temp), StandardDelimiter, Student_getMark(temp));
     }
     fclose(save);
 }

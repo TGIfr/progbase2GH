@@ -6,4 +6,4 @@ set(HEADER check.h)
 
 set(SOURCE_FILES tests.c csv.c csv.h list.c list.h)
 add_executable(progbase2GH ${SOURCE_FILES})
-target_link_libraries(progbase2GH check)
+target_link_libraries(progbase2GH check )

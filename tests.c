@@ -10,14 +10,14 @@
 
 //getcols
 START_TEST (getcols_strToTest_returns6){
-    char * toTest = "bla;bla;d;t;a;s";
+    char * toTest = "bla,bla,d,t,a,s";
     char ** out = NULL;
     ck_assert(getcols(toTest, StandardDelimiter, &out) == 6);
     free(out);
     }
 END_TEST
 START_TEST (getcols_strToTest_correctStrReturns){
-        char * toTest = "bla;blah;d";
+        char * toTest = "bla,blah,d";
         char ** out = NULL;
         getcols(toTest, StandardDelimiter, &out);
         ck_assert_str_eq("bla", out[0]);
@@ -92,7 +92,6 @@ END_TEST
 START_TEST (ListAdd_smthWithPointer_addsIt){
         List * lst = List_new();
         int * temp = malloc(sizeof(int));
-        *temp == 10;
         List_add(lst, temp);
         ck_assert(List_contains(lst, temp));
         List_free(&lst);
@@ -103,7 +102,6 @@ END_TEST
 START_TEST (ListContains_smthWithPointerNotInList_returnsFalse){
         List * lst = List_new();
         int * temp = malloc(sizeof(int));
-        *temp == 10;
         ck_assert(!List_contains(lst, temp));
         List_free(&lst);
         free(temp);
@@ -112,7 +110,6 @@ END_TEST
 START_TEST (ListIndexOf_smthWithPointer_returnsMinus1){
         List * lst = List_new();
         int * temp = malloc(sizeof(int));
-        *temp == 10;
         ck_assert(List_indexOf(lst, temp) == -1);
         List_free(&lst);
         free(temp);
@@ -121,7 +118,6 @@ END_TEST
 START_TEST (ListIndexOf_smthWithPointer_returnsZero){
         List * lst = List_new();
         int * temp = malloc(sizeof(int));
-        *temp == 10;
         List_add(lst, temp);
         ck_assert(List_indexOf(lst, temp) == 0);
         List_free(&lst);
@@ -131,7 +127,6 @@ END_TEST
 START_TEST (ListCount_list_returns1){
         List * lst = List_new();
         int * temp = malloc(sizeof(int));
-        *temp == 10;
         List_add(lst, temp);
         ck_assert(List_count(lst) == 1);
         List_free(&lst);
@@ -147,7 +142,6 @@ END_TEST
 START_TEST (ListGet_pointerToSmth_pointerToSmth){
         List * lst = List_new();
         int * temp = malloc(sizeof(int));
-        *temp == 10;
         List_add(lst, temp);
         ck_assert(List_get(lst, 0) == temp);
         List_free(&lst);
