@@ -36,8 +36,8 @@
       <file leaf-file-name=".travis.yml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.travis.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+            <state relative-caret-position="144">
+              <caret line="8" column="40" selection-start-line="8" selection-start-column="40" selection-end-line="8" selection-end-column="40" />
               <folding />
             </state>
           </provider>
@@ -437,7 +437,7 @@
       <workItem from="1488048820682" duration="5000" />
       <workItem from="1488048982062" duration="6358000" />
       <workItem from="1488100992310" duration="22625000" />
-      <workItem from="1488391107936" duration="6393000" />
+      <workItem from="1488391107936" duration="6743000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1488049234414</created>
@@ -642,11 +642,18 @@
       <option name="project" value="LOCAL" />
       <updated>1488398224010</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="codecov test 17">
+      <created>1488398603390</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1488398603390</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35395000" />
+    <option name="totallyTimeSpent" value="35745000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="26" width="1366" height="742" extended-state="6" />
@@ -687,7 +694,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="test 5" />
     <MESSAGE value="test 6" />
     <MESSAGE value="test 7" />
     <MESSAGE value="test 8" />
@@ -712,7 +718,8 @@
     <MESSAGE value="codecov test 14" />
     <MESSAGE value="codecov test 15" />
     <MESSAGE value="codecov test 16" />
-    <option name="LAST_COMMIT_MESSAGE" value="codecov test 16" />
+    <MESSAGE value="codecov test 17" />
+    <option name="LAST_COMMIT_MESSAGE" value="codecov test 17" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -919,8 +926,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.travis.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+        <state relative-caret-position="144">
+          <caret line="8" column="40" selection-start-line="8" selection-start-column="40" selection-end-line="8" selection-end-column="40" />
           <folding />
         </state>
       </provider>
