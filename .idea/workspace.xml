@@ -14,29 +14,16 @@
     <list default="true" id="076917f9-af99-460a-a80f-453ffaef6f9c" name="Default" comment="">
       <change type="DELETED" beforePath="$PROJECT_DIR$/csv.gcda" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/csv.gcno" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/csv.o" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/list.gcda" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/list.gcno" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/list.h.gch" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/list.o" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/tests.gcda" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/tests.gcno" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/tests.o" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/a.out" afterPath="$PROJECT_DIR$/a.out" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/Debug/progbase2GH" afterPath="$PROJECT_DIR$/build/Debug/progbase2GH" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/csv.h.gch" afterPath="$PROJECT_DIR$/csv.h.gch" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/progbase2GH.iml" afterPath="$PROJECT_DIR$/.idea/progbase2GH.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/csv.o" afterPath="$PROJECT_DIR$/csv.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib.a" afterPath="$PROJECT_DIR$/lib.a" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/list.o" afterPath="$PROJECT_DIR$/list.o" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.travis.yml" afterPath="$PROJECT_DIR$/.travis.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CMakeLists.txt" afterPath="$PROJECT_DIR$/CMakeLists.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/Debug/read.txt" afterPath="$PROJECT_DIR$/build/Debug/read.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/Debug/readTest.txt" afterPath="$PROJECT_DIR$/build/Debug/readTest.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/Debug/save.txt" afterPath="$PROJECT_DIR$/build/Debug/save.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/csv.c" afterPath="$PROJECT_DIR$/csv.c" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/read.txt" afterPath="$PROJECT_DIR$/read.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/readTest.txt" afterPath="$PROJECT_DIR$/readTest.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/save.txt" afterPath="$PROJECT_DIR$/save.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tests.c" afterPath="$PROJECT_DIR$/tests.c" />
     </list>
     <ignored path="progbase2GH.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -460,7 +447,7 @@
       <workItem from="1488048820682" duration="5000" />
       <workItem from="1488048982062" duration="6358000" />
       <workItem from="1488100992310" duration="22625000" />
-      <workItem from="1488391107936" duration="4150000" />
+      <workItem from="1488391107936" duration="4463000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1488049234414</created>
@@ -637,11 +624,18 @@
       <option name="project" value="LOCAL" />
       <updated>1488136389622</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="codecov test 13">
+      <created>1488395924220</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1488395924220</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33152000" />
+    <option name="totallyTimeSpent" value="33465000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="26" width="1366" height="742" extended-state="6" />
@@ -682,7 +676,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="test" />
     <MESSAGE value="test 2" />
     <MESSAGE value="test 3" />
     <MESSAGE value="test 4" />
@@ -707,7 +700,8 @@
     <MESSAGE value="codecov test 10" />
     <MESSAGE value="codecov test 11" />
     <MESSAGE value="codecov test 12" />
-    <option name="LAST_COMMIT_MESSAGE" value="codecov test 12" />
+    <MESSAGE value="codecov test 13" />
+    <option name="LAST_COMMIT_MESSAGE" value="codecov test 13" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -816,6 +810,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -847,6 +842,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="18">
           <caret line="1" column="11" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
+          <folding />
         </state>
       </provider>
     </entry>
