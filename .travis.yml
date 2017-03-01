@@ -4,6 +4,9 @@ os:
   - linux
 compiler:
   - gcc
+before_install:
+  - sudo apt-get update -qq
+  - sudo apt-get install -qq check
 
 script:
   - gcc -std=c99  csv.c lib.a -coverage

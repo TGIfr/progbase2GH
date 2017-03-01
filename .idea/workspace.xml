@@ -12,244 +12,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="076917f9-af99-460a-a80f-453ffaef6f9c" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/AUTHORS" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/CMakeLists.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/COPYING.LESSER" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/ChangeLog" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/INSTALL" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/Makefile.am" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/Makefile.in" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/NEWS" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/README" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/THANKS" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/TODO" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/aclocal.m4" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/ar-lib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/check.m4" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/check.pc.in" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/check_stdint.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/checkmk/Makefile.am" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/checkmk/Makefile.in" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/checkmk/README" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/checkmk/checkmk.in" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/checkmk/doc/checkmk.1" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/checkmk/examples/basic_complete.ts" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/checkmk/examples/multiple_everything.ts" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/checkmk/test/argument_ws/in" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/checkmk/test/argument_ws/x_output" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/checkmk/test/basic_complete/in" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/checkmk/test/basic_complete/x_output" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/checkmk/test/between_the_lines/in" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/checkmk/test/between_the_lines/x_output" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/checkmk/test/case_insensitive_pp/in" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/checkmk/test/case_insensitive_pp/x_output" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/checkmk/test/check_checkmk" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/checkmk/test/clean_mode/cmd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/checkmk/test/clean_mode/in" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/checkmk/test/clean_mode/x_output" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/checkmk/test/declarations/in" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/checkmk/test/declarations/x_output" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/checkmk/test/empty_input/in" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/checkmk/test/empty_input/x_err" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/checkmk/test/empty_input/x_output" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/checkmk/test/invalid_ucn/in" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/checkmk/test/invalid_ucn/x_err" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/checkmk/test/invalid_ucn/x_output" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/checkmk/test/main_post/in" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/checkmk/test/main_post/x_output" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/checkmk/test/main_post_multiple/in" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/checkmk/test/main_post_multiple/x_err" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/checkmk/test/main_post_multiple/x_output" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/checkmk/test/main_pre_after_post/in" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/checkmk/test/main_pre_after_post/x_err" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/checkmk/test/main_pre_after_post/x_output" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/checkmk/test/main_pre_multiple/in" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/checkmk/test/main_pre_multiple/x_err" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/checkmk/test/main_pre_multiple/x_output" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/checkmk/test/multiple_everything/in" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/checkmk/test/multiple_everything/x_output" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/checkmk/test/name_enc/cmd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/checkmk/test/name_enc/x_output" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/checkmk/test/no_args/cmd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/checkmk/test/no_args/in" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/checkmk/test/no_args/x_output" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/checkmk/test/non_word_chars/in" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/checkmk/test/non_word_chars/x_output" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/checkmk/test/not_really_repeated/in" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/checkmk/test/not_really_repeated/x_output" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/checkmk/test/num_start_test_name/in" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/checkmk/test/num_start_test_name/x_err" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/checkmk/test/num_start_test_name/x_output" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/checkmk/test/pass_thru/in" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/checkmk/test/pass_thru/x_err" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/checkmk/test/pass_thru/x_output" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/checkmk/test/repeated_argument_tests/in" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/checkmk/test/repeated_argument_tests/x_err" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/checkmk/test/repeated_argument_tests/x_output" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/checkmk/test/repeated_suites/in" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/checkmk/test/repeated_suites/x_err" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/checkmk/test/repeated_suites/x_output" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/checkmk/test/repeated_tcases/in" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/checkmk/test/repeated_tcases/x_err" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/checkmk/test/repeated_tcases/x_output" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/checkmk/test/repeated_tests/in" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/checkmk/test/repeated_tests/x_err" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/checkmk/test/repeated_tests/x_output" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/checkmk/test/single_test_line/in" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/checkmk/test/single_test_line/x_output" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/checkmk/test/tcase_implied_repeat/in" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/checkmk/test/tcase_implied_repeat/x_err" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/checkmk/test/tcase_implied_repeat/x_output" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/checkmk/test/test_after_main_post/in" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/checkmk/test/test_after_main_post/x_err" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/checkmk/test/test_after_main_post/x_output" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/checkmk/test/test_after_main_pre/in" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/checkmk/test/test_after_main_pre/x_err" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/checkmk/test/test_after_main_pre/x_output" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/checkmk/test/test_chars/in" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/checkmk/test/test_chars/x_err" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/checkmk/test/test_chars/x_output" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/checkmk/test/trailing_ws/in" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/checkmk/test/trailing_ws/x_output" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/checkmk/test/ucn/in" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/checkmk/test/ucn/x_output" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/cmake/CheckHeaderDirent.cmake" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/cmake/CheckStructMember.cmake" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/cmake/CheckTypeExists.cmake" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/cmake/check_stdint.h.in" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/cmake/config.h.in" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/compile" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/config.guess" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/config.h.in" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/config.sub" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/configure" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/configure.ac" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/depcomp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/doc/Makefile.am" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/doc/Makefile.in" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/doc/check.info" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/doc/check.texi" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/doc/example/CMakeLists.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/doc/example/Makefile.am" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/doc/example/README" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/doc/example/cmake/COPYING-CMAKE-SCRIPTS.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/doc/example/cmake/FindCheck.cmake" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/doc/example/cmake/config.h.in" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/doc/example/configure.ac" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/doc/example/src/CMakeLists.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/doc/example/src/Makefile.am" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/doc/example/src/main.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/doc/example/src/money.1.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/doc/example/src/money.1.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/doc/example/src/money.2.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/doc/example/src/money.3.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/doc/example/src/money.4.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/doc/example/src/money.5.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/doc/example/src/money.6.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/doc/example/src/money.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/doc/example/src/money.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/doc/example/tests/CMakeLists.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/doc/example/tests/Makefile.am" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/doc/example/tests/check_money.1.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/doc/example/tests/check_money.2.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/doc/example/tests/check_money.3.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/doc/example/tests/check_money.6.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/doc/example/tests/check_money.7.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/doc/example/tests/check_money.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/doc/fdl.texi" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/doc/mdate-sh" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/doc/stamp-vti" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/doc/texinfo.tex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/doc/version.texi" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/install-sh" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/lib/CMakeLists.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/lib/Makefile.am" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/lib/Makefile.in" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/lib/alarm.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/lib/clock_gettime.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/lib/getline.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/lib/gettimeofday.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/lib/libcompat.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/lib/libcompat.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/lib/localtime_r.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/lib/malloc.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/lib/realloc.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/lib/snprintf.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/lib/strdup.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/lib/strsignal.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/lib/timer_create.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/lib/timer_delete.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/lib/timer_settime.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/ltmain.sh" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/m4/acx_pthread.m4" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/m4/ax_c_check_flag.m4" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/m4/ax_create_stdint_h.m4" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/m4/librt_timers.m4" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/m4/libtool.m4" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/m4/ltoptions.m4" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/m4/ltsugar.m4" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/m4/ltversion.m4" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/m4/lt~obsolete.m4" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/m4/snprintf.m4" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/missing" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/src/CMakeLists.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/src/Makefile.am" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/src/Makefile.in" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/src/check.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/src/check.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/src/check.h.in" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/src/check_error.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/src/check_error.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/src/check_impl.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/src/check_list.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/src/check_list.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/src/check_log.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/src/check_log.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/src/check_msg.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/src/check_msg.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/src/check_pack.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/src/check_pack.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/src/check_print.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/src/check_print.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/src/check_run.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/src/check_str.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/src/check_str.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/test-driver" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/tests/CMakeLists.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/tests/Makefile.am" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/tests/Makefile.in" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/tests/check_check.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/tests/check_check_exit.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/tests/check_check_export_main.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/tests/check_check_fixture.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/tests/check_check_fork.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/tests/check_check_limit.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/tests/check_check_log.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/tests/check_check_log_internal.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/tests/check_check_main.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/tests/check_check_master.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/tests/check_check_msg.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/tests/check_check_pack.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/tests/check_check_selective.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/tests/check_check_sub.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/tests/check_check_tags.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/tests/check_list.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/tests/check_mem_leaks.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/tests/check_nofork.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/tests/check_nofork_teardown.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/tests/check_stress.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/tests/check_thread_stress.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/tests/ex_output.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/tests/test_check_nofork.sh" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/tests/test_check_nofork_teardown.sh" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/tests/test_log_output.sh" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/tests/test_mem_leaks.sh" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/tests/test_output.sh" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/tests/test_output_strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/tests/test_tap_output.sh" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/tests/test_vars.in" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/tests/test_xml_output.sh" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/check-0.11.0/xml/check_unittest.xslt" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.travis.yml" afterPath="$PROJECT_DIR$/.travis.yml" />
     </list>
@@ -274,8 +36,8 @@
       <file leaf-file-name=".travis.yml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.travis.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="11" selection-start-line="0" selection-start-column="11" selection-end-line="0" selection-end-column="11" />
+            <state relative-caret-position="144">
+              <caret line="8" column="34" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
               <folding />
             </state>
           </provider>
@@ -284,7 +46,7 @@
       <file leaf-file-name="tests.c" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tests.c">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-13">
+            <state relative-caret-position="4572">
               <caret line="254" column="26" selection-start-line="254" selection-start-column="26" selection-end-line="254" selection-end-column="26" />
               <folding>
                 <element signature="e#40#58#0" expanded="true" />
@@ -340,7 +102,7 @@
       <file leaf-file-name="list.h" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/list.h">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
+            <state relative-caret-position="306">
               <caret line="17" column="38" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
               <folding />
             </state>
@@ -675,7 +437,8 @@
       <workItem from="1488048820682" duration="5000" />
       <workItem from="1488048982062" duration="6358000" />
       <workItem from="1488100992310" duration="22625000" />
-      <workItem from="1488391107936" duration="7363000" />
+      <workItem from="1488391107936" duration="7985000" />
+      <workItem from="1488402278212" duration="45000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1488049234414</created>
@@ -894,11 +657,18 @@
       <option name="project" value="LOCAL" />
       <updated>1488398953359</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="codecov test 19">
+      <created>1488399718087</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1488399718087</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36365000" />
+    <option name="totallyTimeSpent" value="37032000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="26" width="1366" height="742" extended-state="6" />
@@ -906,22 +676,22 @@
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24963397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32919255" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="CMake" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32919255" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32919255" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2468944" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39906833" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32919255" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2468944" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32919255" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39906833" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="UnknownFeatures">
@@ -939,7 +709,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="test 7" />
     <MESSAGE value="test 8" />
     <MESSAGE value="test 9" />
     <MESSAGE value="test 10" />
@@ -964,7 +733,8 @@
     <MESSAGE value="codecov test 16" />
     <MESSAGE value="codecov test 17" />
     <MESSAGE value="codecov test 18" />
-    <option name="LAST_COMMIT_MESSAGE" value="codecov test 18" />
+    <MESSAGE value="codecov test 19" />
+    <option name="LAST_COMMIT_MESSAGE" value="codecov test 19" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -973,6 +743,76 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/.travis.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="11" selection-start-line="0" selection-start-column="11" selection-end-line="0" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4572">
+          <caret line="254" column="26" selection-start-line="254" selection-start-column="26" selection-end-line="254" selection-end-column="26" />
+          <folding>
+            <element signature="e#40#58#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="40" selection-start-line="8" selection-start-column="40" selection-end-line="8" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/csv.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding>
+            <element signature="e#40#58#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/csv.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/list.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1908">
+          <caret line="106" column="30" selection-start-line="106" selection-start-column="30" selection-end-line="106" selection-end-column="30" />
+          <folding>
+            <element signature="e#40#59#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/list.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="17" column="38" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/Debug/read.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" column="6" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/.travis.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1073,7 +913,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1105,21 +944,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="18">
           <caret line="1" column="11" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build/Debug/readTest.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="8" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/list.h">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
+        <state relative-caret-position="306">
           <caret line="17" column="38" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
           <folding />
         </state>
@@ -1153,7 +983,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/tests.c">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-13">
+        <state relative-caret-position="4572">
           <caret line="254" column="26" selection-start-line="254" selection-start-column="26" selection-end-line="254" selection-end-column="26" />
           <folding>
             <element signature="e#40#58#0" expanded="true" />
@@ -1171,8 +1001,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.travis.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="11" selection-start-line="0" selection-start-column="11" selection-end-line="0" selection-end-column="11" />
+        <state relative-caret-position="144">
+          <caret line="8" column="34" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/Debug/readTest.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="8" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
           <folding />
         </state>
       </provider>
