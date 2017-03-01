@@ -11,7 +11,7 @@ compiler:
 
 
 script:
-  - gcc -std=c99  tests.c lib.a -coverage -o a.out
+  - gcc -std=c99  tests.c lib.a -coverage -o a.out -lcheck
   - ./a.out
   - gcov -c  csv.c list.c tests.c
 
