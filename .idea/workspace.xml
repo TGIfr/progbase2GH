@@ -11,245 +11,7 @@
     </ADDITIONAL_GENERATION_ENVIRONMENT>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="076917f9-af99-460a-a80f-453ffaef6f9c" name="Default" comment="codecov test 16">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/checkmk/test/empty_input/in" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/checkmk/test/empty_input/x_output" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/AUTHORS" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/CMakeLists.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/COPYING.LESSER" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/ChangeLog" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/INSTALL" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/Makefile.am" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/Makefile.in" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/NEWS" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/README" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/THANKS" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/TODO" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/aclocal.m4" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/ar-lib" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/check.m4" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/check.pc.in" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/check_stdint.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/checkmk/Makefile.am" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/checkmk/Makefile.in" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/checkmk/README" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/checkmk/checkmk.in" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/checkmk/doc/checkmk.1" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/checkmk/examples/basic_complete.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/checkmk/examples/multiple_everything.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/checkmk/test/argument_ws/in" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/checkmk/test/argument_ws/x_output" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/checkmk/test/basic_complete/in" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/checkmk/test/basic_complete/x_output" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/checkmk/test/between_the_lines/in" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/checkmk/test/between_the_lines/x_output" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/checkmk/test/case_insensitive_pp/in" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/checkmk/test/case_insensitive_pp/x_output" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/checkmk/test/check_checkmk" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/checkmk/test/clean_mode/cmd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/checkmk/test/clean_mode/in" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/checkmk/test/clean_mode/x_output" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/checkmk/test/declarations/in" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/checkmk/test/declarations/x_output" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/checkmk/test/empty_input/x_err" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/checkmk/test/invalid_ucn/in" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/checkmk/test/invalid_ucn/x_err" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/checkmk/test/invalid_ucn/x_output" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/checkmk/test/main_post/in" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/checkmk/test/main_post/x_output" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/checkmk/test/main_post_multiple/in" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/checkmk/test/main_post_multiple/x_err" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/checkmk/test/main_post_multiple/x_output" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/checkmk/test/main_pre_after_post/in" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/checkmk/test/main_pre_after_post/x_err" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/checkmk/test/main_pre_after_post/x_output" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/checkmk/test/main_pre_multiple/in" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/checkmk/test/main_pre_multiple/x_err" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/checkmk/test/main_pre_multiple/x_output" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/checkmk/test/multiple_everything/in" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/checkmk/test/multiple_everything/x_output" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/checkmk/test/name_enc/cmd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/checkmk/test/name_enc/x_output" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/checkmk/test/no_args/cmd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/checkmk/test/no_args/in" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/checkmk/test/no_args/x_output" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/checkmk/test/non_word_chars/in" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/checkmk/test/non_word_chars/x_output" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/checkmk/test/not_really_repeated/in" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/checkmk/test/not_really_repeated/x_output" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/checkmk/test/num_start_test_name/in" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/checkmk/test/num_start_test_name/x_err" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/checkmk/test/num_start_test_name/x_output" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/checkmk/test/pass_thru/in" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/checkmk/test/pass_thru/x_err" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/checkmk/test/pass_thru/x_output" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/checkmk/test/repeated_argument_tests/in" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/checkmk/test/repeated_argument_tests/x_err" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/checkmk/test/repeated_argument_tests/x_output" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/checkmk/test/repeated_suites/in" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/checkmk/test/repeated_suites/x_err" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/checkmk/test/repeated_suites/x_output" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/checkmk/test/repeated_tcases/in" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/checkmk/test/repeated_tcases/x_err" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/checkmk/test/repeated_tcases/x_output" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/checkmk/test/repeated_tests/in" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/checkmk/test/repeated_tests/x_err" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/checkmk/test/repeated_tests/x_output" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/checkmk/test/single_test_line/in" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/checkmk/test/single_test_line/x_output" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/checkmk/test/tcase_implied_repeat/in" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/checkmk/test/tcase_implied_repeat/x_err" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/checkmk/test/tcase_implied_repeat/x_output" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/checkmk/test/test_after_main_post/in" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/checkmk/test/test_after_main_post/x_err" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/checkmk/test/test_after_main_post/x_output" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/checkmk/test/test_after_main_pre/in" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/checkmk/test/test_after_main_pre/x_err" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/checkmk/test/test_after_main_pre/x_output" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/checkmk/test/test_chars/in" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/checkmk/test/test_chars/x_err" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/checkmk/test/test_chars/x_output" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/checkmk/test/trailing_ws/in" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/checkmk/test/trailing_ws/x_output" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/checkmk/test/ucn/in" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/checkmk/test/ucn/x_output" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/cmake/CheckHeaderDirent.cmake" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/cmake/CheckStructMember.cmake" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/cmake/CheckTypeExists.cmake" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/cmake/check_stdint.h.in" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/cmake/config.h.in" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/compile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/config.guess" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/config.h.in" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/config.sub" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/configure" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/configure.ac" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/depcomp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/doc/Makefile.am" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/doc/Makefile.in" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/doc/check.info" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/doc/check.texi" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/doc/example/CMakeLists.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/doc/example/Makefile.am" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/doc/example/README" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/doc/example/cmake/COPYING-CMAKE-SCRIPTS.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/doc/example/cmake/FindCheck.cmake" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/doc/example/cmake/config.h.in" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/doc/example/configure.ac" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/doc/example/src/CMakeLists.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/doc/example/src/Makefile.am" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/doc/example/src/main.c" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/doc/example/src/money.1.c" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/doc/example/src/money.1.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/doc/example/src/money.2.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/doc/example/src/money.3.c" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/doc/example/src/money.4.c" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/doc/example/src/money.5.c" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/doc/example/src/money.6.c" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/doc/example/src/money.c" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/doc/example/src/money.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/doc/example/tests/CMakeLists.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/doc/example/tests/Makefile.am" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/doc/example/tests/check_money.1.c" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/doc/example/tests/check_money.2.c" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/doc/example/tests/check_money.3.c" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/doc/example/tests/check_money.6.c" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/doc/example/tests/check_money.7.c" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/doc/example/tests/check_money.c" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/doc/fdl.texi" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/doc/mdate-sh" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/doc/stamp-vti" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/doc/texinfo.tex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/doc/version.texi" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/install-sh" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/lib/CMakeLists.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/lib/Makefile.am" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/lib/Makefile.in" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/lib/alarm.c" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/lib/clock_gettime.c" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/lib/getline.c" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/lib/gettimeofday.c" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/lib/libcompat.c" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/lib/libcompat.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/lib/localtime_r.c" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/lib/malloc.c" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/lib/realloc.c" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/lib/snprintf.c" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/lib/strdup.c" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/lib/strsignal.c" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/lib/timer_create.c" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/lib/timer_delete.c" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/lib/timer_settime.c" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/ltmain.sh" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/m4/acx_pthread.m4" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/m4/ax_c_check_flag.m4" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/m4/ax_create_stdint_h.m4" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/m4/librt_timers.m4" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/m4/libtool.m4" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/m4/ltoptions.m4" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/m4/ltsugar.m4" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/m4/ltversion.m4" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/m4/lt~obsolete.m4" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/m4/snprintf.m4" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/missing" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/src/CMakeLists.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/src/Makefile.am" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/src/Makefile.in" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/src/check.c" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/src/check.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/src/check.h.in" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/src/check_error.c" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/src/check_error.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/src/check_impl.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/src/check_list.c" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/src/check_list.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/src/check_log.c" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/src/check_log.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/src/check_msg.c" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/src/check_msg.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/src/check_pack.c" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/src/check_pack.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/src/check_print.c" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/src/check_print.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/src/check_run.c" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/src/check_str.c" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/src/check_str.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/test-driver" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/tests/CMakeLists.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/tests/Makefile.am" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/tests/Makefile.in" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/tests/check_check.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/tests/check_check_exit.c" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/tests/check_check_export_main.c" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/tests/check_check_fixture.c" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/tests/check_check_fork.c" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/tests/check_check_limit.c" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/tests/check_check_log.c" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/tests/check_check_log_internal.c" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/tests/check_check_main.c" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/tests/check_check_master.c" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/tests/check_check_msg.c" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/tests/check_check_pack.c" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/tests/check_check_selective.c" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/tests/check_check_sub.c" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/tests/check_check_tags.c" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/tests/check_list.c" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/tests/check_mem_leaks.c" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/tests/check_nofork.c" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/tests/check_nofork_teardown.c" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/tests/check_stress.c" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/tests/check_thread_stress.c" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/tests/ex_output.c" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/tests/test_check_nofork.sh" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/tests/test_check_nofork_teardown.sh" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/tests/test_log_output.sh" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/tests/test_mem_leaks.sh" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/tests/test_output.sh" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/tests/test_output_strings" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/tests/test_tap_output.sh" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/tests/test_vars.in" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/tests/test_xml_output.sh" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check-0.11.0/xml/check_unittest.xslt" />
+    <list default="true" id="076917f9-af99-460a-a80f-453ffaef6f9c" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.travis.yml" afterPath="$PROJECT_DIR$/.travis.yml" />
     </list>
@@ -275,7 +37,7 @@
         <entry file="file://$PROJECT_DIR$/.travis.yml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="162">
-              <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+              <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
               <folding />
             </state>
           </provider>
@@ -675,7 +437,7 @@
       <workItem from="1488048820682" duration="5000" />
       <workItem from="1488048982062" duration="6358000" />
       <workItem from="1488100992310" duration="22625000" />
-      <workItem from="1488391107936" duration="5943000" />
+      <workItem from="1488391107936" duration="6393000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1488049234414</created>
@@ -873,11 +635,18 @@
       <option name="project" value="LOCAL" />
       <updated>1488397171563</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="codecov test 16">
+      <created>1488398224010</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1488398224010</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34945000" />
+    <option name="totallyTimeSpent" value="35395000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="26" width="1366" height="742" extended-state="6" />
@@ -918,7 +687,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="test 4" />
     <MESSAGE value="test 5" />
     <MESSAGE value="test 6" />
     <MESSAGE value="test 7" />
@@ -943,7 +711,8 @@
     <MESSAGE value="codecov test 13" />
     <MESSAGE value="codecov test 14" />
     <MESSAGE value="codecov test 15" />
-    <option name="LAST_COMMIT_MESSAGE" value="codecov test 15" />
+    <MESSAGE value="codecov test 16" />
+    <option name="LAST_COMMIT_MESSAGE" value="codecov test 16" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1151,7 +920,7 @@
     <entry file="file://$PROJECT_DIR$/.travis.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
-          <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
           <folding />
         </state>
       </provider>

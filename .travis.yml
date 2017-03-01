@@ -5,9 +5,9 @@ os:
 compiler:
   - gcc
 before_install:
-  -./configure
-  -make
-  -sudo make install
+  - ./configure
+  - make
+  - sudo make install
 
 script:
   - gcc -std=c99  csv.c lib.a -coverage -lcheck
