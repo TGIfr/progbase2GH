@@ -71,7 +71,7 @@ START_TEST (StudGetters_stud_returnsCorrectData){
         Student * stud = Student_new(temp, 10, 15);
         ck_assert_str_eq(Student_getName(stud), temp);
         ck_assert(Student_getCourse(stud) == 10);
-        ck_assert_float_eq(15, Student_getMark(stud));
+        ck_assert(15.0 ==  Student_getMark(stud));
         Student_free(&stud);
     }
 END_TEST
