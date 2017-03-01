@@ -9,7 +9,8 @@ script:
   - gcc -std=c99  csv.c lib.a -coverage -lcheck
   - ./a.out
   - gcov -c  csv.c list.c tests.c
-  - echo program compiled successfully
+
 
 after_success:
   - bash <(curl -s https://codecov.io/bash)
+  - echo program compiled successfully

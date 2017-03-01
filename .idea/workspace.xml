@@ -20,10 +20,8 @@
       <change type="DELETED" beforePath="$PROJECT_DIR$/tests.gcda" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/tests.gcno" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/tests.o" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/csv.o" afterPath="$PROJECT_DIR$/csv.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib.a" afterPath="$PROJECT_DIR$/lib.a" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/list.o" afterPath="$PROJECT_DIR$/list.o" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.travis.yml" afterPath="$PROJECT_DIR$/.travis.yml" />
     </list>
     <ignored path="progbase2GH.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -46,8 +44,8 @@
       <file leaf-file-name=".travis.yml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.travis.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="8" column="47" selection-start-line="8" selection-start-column="47" selection-end-line="8" selection-end-column="47" />
+            <state relative-caret-position="270">
+              <caret line="15" column="2" selection-start-line="15" selection-start-column="2" selection-end-line="15" selection-end-column="2" />
               <folding />
             </state>
           </provider>
@@ -447,7 +445,7 @@
       <workItem from="1488048820682" duration="5000" />
       <workItem from="1488048982062" duration="6358000" />
       <workItem from="1488100992310" duration="22625000" />
-      <workItem from="1488391107936" duration="4463000" />
+      <workItem from="1488391107936" duration="5113000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1488049234414</created>
@@ -631,11 +629,18 @@
       <option name="project" value="LOCAL" />
       <updated>1488395924220</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="codecov test 14">
+      <created>1488396210839</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1488396210839</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33465000" />
+    <option name="totallyTimeSpent" value="34115000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="26" width="1366" height="742" extended-state="6" />
@@ -676,7 +681,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="test 2" />
     <MESSAGE value="test 3" />
     <MESSAGE value="test 4" />
     <MESSAGE value="test 5" />
@@ -701,7 +705,8 @@
     <MESSAGE value="codecov test 11" />
     <MESSAGE value="codecov test 12" />
     <MESSAGE value="codecov test 13" />
-    <option name="LAST_COMMIT_MESSAGE" value="codecov test 13" />
+    <MESSAGE value="codecov test 14" />
+    <option name="LAST_COMMIT_MESSAGE" value="codecov test 14" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -908,8 +913,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.travis.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" column="47" selection-start-line="8" selection-start-column="47" selection-end-line="8" selection-end-column="47" />
+        <state relative-caret-position="270">
+          <caret line="15" column="2" selection-start-line="15" selection-start-column="2" selection-end-line="15" selection-end-column="2" />
           <folding />
         </state>
       </provider>
