@@ -43,6 +43,6 @@ add_test(unit-tests ${CMAKE_PROJECT_NAME})
 set(CMAKE_MODULE_PATH ${CMAKE_CURRENT_SOURCE_DIR}/scripts/cmake)
 include(CodeCoverage)
 setup_target_for_coverage(${CMAKE_PROJECT_NAME}_coverage ${CMAKE_PROJECT_NAME} coverage)
-SET(CMAKE_CXX_FLAGS "-g -99 -fprofile-arcs -ftest-coverage")
-SET(CMAKE_C_FLAGS "-std=c99 -g -99 -fprofile-arcs -ftest-coverage")
+SET(CMAKE_CXX_FLAGS "-g -O0 -fprofile-arcs -ftest-coverage")
+SET(CMAKE_C_FLAGS "-std=c99 -g -O0 -fprofile-arcs -ftest-coverage")
 
